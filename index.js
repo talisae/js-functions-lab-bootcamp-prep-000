@@ -5,3 +5,8 @@ function happyHolidays(string){
 function happyHolidaysTo(string){
   return ('string')
 }
+
+function happyHolidaysTo(string) {
+  return string
+}
+'Hello!'.toUpperCase() // 'HELLO!'
