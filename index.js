@@ -6,7 +6,11 @@ function happyHolidaysTo(string){
   return ('string')
 }
 
-function happyHolidaysTo(string) {
+function happyHolidaysTo(string, name) {
   return string
 }
 'Hello!'.toUpperCase() // 'HELLO!'
+
+function say(greeting, firstName) {
+  console.log(`${greeting}, ${Name}!`)
+}
